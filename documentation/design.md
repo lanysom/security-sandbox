@@ -1,6 +1,9 @@
 # Security Sandbox
 **Design document**
 
+## Colors
+Background: #010713
+
 ### 1. Basic Structure
 - **Homepage**: Displays a welcome message and links to various sections like blogs, login, registration.
 - **Blog Page**: List of blog posts that users can click to read more. Include a comment section with a form to submit comments.
@@ -45,5 +48,3 @@
 - **Misconfigurations**: Leave default configurations unchanged (e.g., admin/admin for admin login).
 - **No Input Validation**: Accept all inputs without checks on length, type, or format.
 
-### Conclusion
-While building this, make sure to document every vulnerability you introduce and how they could be exploited. This documentation will be crucial for the educational aspect of the website, helping students understand and learn how to identify and exploit these common security issues safely and ethically.
