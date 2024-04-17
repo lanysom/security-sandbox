@@ -1,1 +1,5 @@
-# security-sandbox
+# Security Sandbox
+
+Security Sandbox is an interactive educational platform designed to expose and teach the fundamentals of web security vulnerabilities through hands-on experience. By engaging with a deliberately vulnerable website, students and aspiring security professionals can learn about common web security pitfalls in a controlled, safe environment. The website includes a range of intentionally introduced flaws such as SQL injection, cross-site scripting (XSS), cross-site request forgery (CSRF), session management issues, and weak authentication systems.
+
+Each section of the website is built to showcase specific vulnerabilities, allowing users to see firsthand how these security lapses can be exploited and, importantly, how they can be mitigated. This project serves as a practical complement to theoretical cybersecurity education, emphasizing real-world application and understanding. Security Sandbox is ideal for university courses and training programs focusing on secure web development, providing a crucial bridge between learning and practical application.
