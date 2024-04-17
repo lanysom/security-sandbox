@@ -1,6 +1,8 @@
 # Security Sandbox
 **Design document**
 
+[Logo](logo.png)
+
 ## Colors
 Background: #010713
 
