@@ -1,1 +1,20 @@
 <h1>Blog</h1>
+
+<!-- Show blog entries -->
+
+<hr />
+<form>
+    <div class="mb-3">
+        <label for="userEmail" class="form-label">Your email adress</label>
+        <input type="email" class="form-control" id="userEmail"  placeholder="name@example.com" />
+    </div>
+    <div class="mb-3">
+        <label for="entryText" class="form-label">Nice things to say about the dear creature</label>
+        <textarea class="form-control" id="entryText" rows="5"></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="entryPicture" class="form-label">A picture of your beloved pet</label>
+        <input class="form-control" type="file" id="entryPicture">      
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>
