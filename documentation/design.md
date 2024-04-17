@@ -8,7 +8,7 @@
 - **Registration Page**: Registration form for new users.
 - **Profile Page**: User profile that can be edited after logging in.
 
-[!Web Site Map](webmap.png)
+[Web Site Map](webmap.png)
 
 ### 2. Vulnerabilities to Introduce
 - **SQL Injection**: 
