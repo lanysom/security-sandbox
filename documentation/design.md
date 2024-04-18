@@ -3,9 +3,6 @@
 
 [Logo](logo.png)
 
-## Colors
-Background: #010713
-
 ### 1. Basic Structure
 - **Homepage**: Displays a welcome message and links to various sections like blogs, login, registration.
 - **Blog Page**: List of blog posts that users can click to read more. Include a comment section with a form to submit comments.
